@@ -1,13 +1,8 @@
-import React, { useState } from "react";
-import toast from "react-hot-toast";
-import JoinCreateChat from "./components/JoinCreateChat";
+import React from "react";
+import AppRoutes from "./config/routes";
+
 const App = () => {
-  const [count, setCount] = useState(0);
-  return (
-    <div>
-      <JoinCreateChat />
-    </div>
-  );
+  return <AppRoutes />;
 };
 
 export default App;
