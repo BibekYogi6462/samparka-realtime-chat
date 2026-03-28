@@ -1,6 +1,4 @@
-﻿Samparka - Real-Time Chat Application
-Complete README.md for Your GitHub Repository
-markdown
+
 # 💬 Samparka - Real-Time Chat Application
 
 <div align="center">
